@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+nav: true
 subtitle: Data Scientist at Mastercard
 
 profile:
