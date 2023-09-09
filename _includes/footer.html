@@ -1,8 +1,7 @@
-
+    {% if site.footer_fixed %}
+    <footer class="fixed-bottom">
 
 <!-- 
-      {% if site.footer_fixed %}
-    <footer class="fixed-bottom">
       <div class="container mt-0">
         &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
         {%- if site.impressum_path -%}
@@ -25,8 +24,8 @@
         {%- endif %}
       </div>
 
-    </footer>
-    {%- endif %
-      }
 -->
 
+
+    </footer>
+    {%- endif %}
