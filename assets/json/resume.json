@@ -36,8 +36,8 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Washington University in St. Louis",
-      "studyType": "Masters of Science in Computer Science",
+      "institution": "Masters of Science in Computer Science",
+      "studyType": "Washington University in St. Louis",
       "startDate": "2020.01",
       "endDate": "2021.12",
       "score": "4.0",
@@ -46,8 +46,8 @@
       ]
     },
     {
-      "institution": "Washington University in St. Louis",
-      "studyType": "Bachelor of Arts (Honors)",
+      "institution": "Bachelor of Arts (Honors)",
+      "studyType": "Washington University in St. Louis",
       "startDate": "2013.08",
       "endDate": "2020.05",
       "score": "3.82",
@@ -58,13 +58,13 @@
       ]
     },
     {
-      "institution": "Blair Academy",
-      "studyType": "High School Diploma",
+      "institution": "High School Diploma",
+      "studyType": "Blair Academy",
       "startDate": "2010.08",
       "endDate": "2013.05"    }
   ],
 
-  
+
   "awards": [
     {
       "title": "Nobel Prize in Physics",
