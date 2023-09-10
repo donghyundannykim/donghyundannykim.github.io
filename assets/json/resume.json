@@ -1,12 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dong Hyun (Danny) Kim",
+    "label": "Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "dannykim0195@gmail.com",
+    "summary": "Data Scientist interested in solving complex business problems",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -39,15 +37,31 @@
   "education": [
     {
       "institution": "Washington University in St. Louis",
-      "area": "Computer Science",
       "studyType": "Masters of Science in Computer Science",
       "startDate": "2020.01",
       "endDate": "2021.12",
       "score": "4.0",
       "courses": [
-        ""
+        "Computer Science"
       ]
-    }
+    },
+    {
+      "institution": "Washington University in St. Louis",
+      "studyType": "Bachelor of Arts (Honors)",
+      "startDate": "2013.08",
+      "endDate": "2020.05",
+      "score": "3.82",
+      "courses": [
+        "Computer Science",
+        "Political Science",
+        "Business (Accounting)"
+      ]
+    },
+    {
+      "institution": "Blair Academy",
+      "studyType": "High School Diploma",
+      "startDate": "2010.08",
+      "endDate": "2013.05"    }
   ],
   "awards": [
     {
